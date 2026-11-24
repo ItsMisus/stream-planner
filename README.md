@@ -19,4 +19,4 @@ Interfaccia in italiano. Progetto in fase pre-lancio.
 
 ## Note
 
-Per segnalazioni o richieste apri una [Issue](https://github.com/ItsMisus/stream-planner-download/issues).
+Per segnalazioni o richieste apri una [Issue](https://github.com/ItsMisus/stream-planner/issues).
